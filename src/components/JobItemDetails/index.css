@@ -1,0 +1,95 @@
+.job-item-bg {
+  padding: 50px;
+  background-color: #000000;
+  color: #7ffa55;
+}
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  padding: 30px;
+  border-radius: 19px;
+}
+.sub-head {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 24px;
+}
+.para {
+  font-weight: 300;
+  font-size: 19px;
+  color: #f1f5f9;
+  font-family: 'Roboto';
+}
+.logo {
+  height: 70px;
+  width: 70px;
+  margin-right: 12px;
+}
+.logo-title-container {
+  display: flex;
+  align-items: center;
+}
+.locate-job-salary-c {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.locate-job-c {
+  display: flex;
+  justify-content: space-between;
+  width: 250px;
+}
+.icon-c {
+  display: flex;
+  align-items: center;
+}
+.skill-icon {
+  height: 50px;
+  width: 50px;
+}
+.skills-c {
+  display: flex;
+  justify-content:;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0px;
+  width: 500px;
+}
+.skill {
+  display: flex;
+  color: #f8fafc;
+  margin-bottom: 40px;
+  margin-right: 40px;
+}
+.work-at-comapany {
+  display: flex;
+}
+.work-at-comapany-des {
+  order: 0;
+  width: 100%;
+  max-width: 550px;
+  margin-right: 30px;
+}
+.work-at-comapany-img {
+  border-radius: 15px;
+  order: 1;
+}
+.similar-jobs-c {
+  display: flex;
+}
+.similar-job-item-c {
+  padding: 20px;
+  border-radius: 17px;
+  background-color: #272727;
+  margin-right: 20px;
+}
+.visit-c {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Link1 {
+  color: rgb(92, 92, 215);
+}

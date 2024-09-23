@@ -1,0 +1,37 @@
+.header {
+  background-color: #272727;
+  padding: 15px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.head-logo {
+  width: 120px;
+}
+.Link {
+  text-decoration: none;
+  padding: 0px;
+  color: white;
+}
+.header-ul {
+  display: flex;
+  padding: 0px;
+  justify-content: center;
+  align-items: center;
+}
+.header-li {
+  display: flex;
+  justify-content: center;
+  width: 50px;
+}
+.header-li :hover {
+  padding: 7px;
+  color: rgb(238, 113, 4);
+  border-radius: 5px;
+}
+.logout-btn {
+  background-color: rgb(70, 70, 237);
+  border-radius: 7px;
+  padding: 10px;
+}
